@@ -6,3 +6,4 @@ Created on Sun Oct 29 21:18:54 2023
 """
 
 print(30**2)
+print(40**2)
