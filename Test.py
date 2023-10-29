@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Oct 29 21:18:54 2023
+import numpy as np
 
-@author: 555
-"""
-
-print(30**2)
-print(40**2)
+N = 50 # Количество узлов в сетке
+x = np.linspace(0, 1, N)
+print(x)
