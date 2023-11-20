@@ -21,7 +21,7 @@ from matplotlib.patches import Polygon
 # print(I1)
 
 def func(x):
-    return (x - 3) * (x - 5) * (x - 7) + 85
+    return (x - 3) * (x - 5) * (x - 9) + 85
 
 
 a, b = 2, 9  # integral limits
